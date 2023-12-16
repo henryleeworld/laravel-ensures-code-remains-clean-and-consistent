@@ -1,4 +1,4 @@
-# Laravel 9 確保程式碼保持乾淨和一致
+# Laravel 10 確保程式碼保持乾淨和一致
 
 引入 squizlabs 的 php_codesniffer 套件來擴增確保程式碼保持乾淨和一致，雖然程式碼風格跟設計沒有關係，但是程式碼風格不一致，對理解程式是一個很大的阻礙。
 
@@ -24,5 +24,5 @@ $ phpcs --standard=phpcs.xml
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/DiDgVwX.png)
+![](https://i.imgur.com/66MkQjy.png)
 > 程式碼風格可以使程式碼易於閱讀
